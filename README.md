@@ -1,5 +1,7 @@
 # Pro WS W680-ACE IPMI 手冊及文件
 
+- [Proxmox 設置教學 Repository](https://github.com/detectviz/proxmox-guide)
+
 ## 韌體 BIOS 手冊及文件
 
 https://www.asus.com/tw/motherboards-components/motherboards/workstation/pro-ws-w680-ace-ipmi/helpdesk_manual?model2Name=Pro-WS-W680-ACE-IPMI
